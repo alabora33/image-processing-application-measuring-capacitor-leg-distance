@@ -16,4 +16,5 @@ The `find_point` method sorts contours by their area, assuming larger contours a
 The `find_distance` method calculates the distance between two points using the Euclidean distance formula.
 
 In the main part of the script, an instance of the `DistanceCalculation` class is created that contains the path to the image. The `process_image` method is called and if the distance is not None , it is printed. The total processing time of the algorithm is also printed.
+
 ![processed_image](https://github.com/alabora33/image-processing-application-measuring-capacitor-leg-distance/assets/41023507/18457be6-9fbf-4433-ae2a-4c2ea87ce501)
